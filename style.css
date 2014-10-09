@@ -1,12 +1,21 @@
 h1 {
 	background-color:ocean blue; 
 }
-.header {
+
+.header li {
     color:black;
 }
 .container {
 	color:gray wolf;
 }
-.jumbotron {
-	
+.jumbotron h1 {
+	color:platinum;
+	font-size: 47px;
+	font-family: 'shift', bree-serif;
+}
+.container p {
+    color:marble blue;
+}
+h3 {
+       
 }
