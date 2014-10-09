@@ -1,19 +1,19 @@
 h1 {
-	background-color:ocean blue; 
+	background-color: #487AD7; 
 }
 
 .header li {
-    color:black;
+    color: #000000;
 }
 
 .container {
-	color:gray wolf;
+	color: #89909C;
 }
 
 .jumbotron h1 {
 	color:#cccccc;
 	font-size: 47px;
-	font-family: 'shift', bree-serif;
+	font-family: 'shift', sans-serif;
 }
 
 .container {
