@@ -3,25 +3,37 @@ h1 {
 }
 
 .header li {
-    color: black;
+    color: silver;
 }
 
 .container p {
-	color: black;
+	color: silver;
+	font-size: 
 }
 
 .jumbotron h1 {
-	color: black;
+	color: silver;
 	font-size: 47px;
 	font-family: 'shift', sans-serif;
+	border: 3px solid #cc0000;
+	padding-top: 10px;
+	padding-bottom: 23;
+	margin-top: 10px;
+	margin-left: 23px;
+	margin-right: auto;
+	font-weight: bold;
+
 }
 
 .container h3 {
-    color: black;
+    color: silver;
+    font-size:;
 }
 .jumbotron {
-	background-image: http://3.bp.blogspot.com/_D5P-ylPTCUo/TT78oxQHl2I/AAAAAAAAAhQ/j3q3D9fHhdY/s1600/cute%2Brobot.jpg
+	background-color: #cccccc;
 }
+
+
 
 
 
