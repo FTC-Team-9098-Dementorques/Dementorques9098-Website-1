@@ -15,19 +15,11 @@ h1 {
 	color: silver;
 	font-size: 31px;
 	font-family: 'shift', sans-serif;
-	border: 3px solid #cc0000;
-	padding-top: 5px;
-	padding-bottom: 13;
-	margin-top: 5px;
-	margin-left: 13px;
-	margin-right: auto;
-	font-weight: bold;
-
 }
 
 .container h3 {
     color: silver;
-    font-size:;
+    font-size: 31px;
 }
 .jumbotron {
 	background-color: #cccccc;
