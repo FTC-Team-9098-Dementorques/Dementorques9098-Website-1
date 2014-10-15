@@ -3,25 +3,23 @@ h1 {
 }
 
 .header li {
-    color: #000000;
+    color: black;
 }
 
 .container {
-	color: #89909C;
+	color: blue;
 }
 
 .jumbotron h1 {
-	color:#cccccc;
+	color: black;
 	font-size: 47px;
 	font-family: 'shift', sans-serif;
 }
 
-.container {
-    color:#2B6DE6;
+.container h3 {
+    color: ;
 }
 
-.jumbotron {
-	background-image: url('http://goo.gl/ODpi3y');
-}
+
 
  
