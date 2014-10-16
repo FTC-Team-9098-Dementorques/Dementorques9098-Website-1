@@ -6,26 +6,45 @@ h1 {
     color: silver;
 }
 
-.container p {
-	color: silver;
-	font-size: 
+.jumbotron p {
+	color: #fff;
+	font-size: 20px; 
 }
 
 .jumbotron h1 {
-	color: silver;
-	font-size: 31px;
-	font-family: 'shift', sans-serif;
+	color: #fff;
+	font-size: 48px;
+	font-weight: bold;
 }
 
+.jumbotron h1 {
+    font-family: 'shift',sans-serif;
+}
+.jumbotron a {
+	background-image:http://3.bp.blogspot.com/_D5P-ylPTCUo/TT78oxQHl2I/AAAAAAAAAhQ/j3q3D9fHhdY/s1600/cute%2Brobot.jpg;
+	height: 500px;
+}
+.nav a {
+	color: #5a5a5a;
+	font-size: 11px;
+	font-weight: bold;
+	padding-bottom: 14px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 14px;
+	text-transform: uppercase;
+}
+.container {
+	background-color: #f7f7f7;
+}
 .container h3 {
-    color: silver;
-    font-size: 31px;
+	font-family: 'shift',sans-serif;
+	font-size: 18px;
+	font-weight: bold;
 }
-.jumbotron {
-	background-color: #cccccc;
+.container a {
+	color: #00b0ff;
 }
-
-
 
 
 
