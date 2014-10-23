@@ -50,7 +50,7 @@
 	top:100px;
 }
 .jumbotron {
-	background-image:url('http://goo.gl/04j7Nn');
+	background-image:url(http://3.bp.blogspot.com/-oVWXNWWFpS8/ULMBdHU2Q9I/AAAAAAAABLY/hDUb9_ULhQg/s1600/hd-cute-husky-puppies-wallpaper-1.jpg);
 	height: 500px;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -58,6 +58,18 @@
 .learn-more p {
 	font-size: 20px;
 	color: #fff;
+}
+.Our-Sponors {
+	background-color: #efefef
+	border-bottom: 1px solid #dbdbdb;
+}
+.Our-Sponors h2 {
+	color: #393c3d
+	font-size: 24px;
+}
+.Our-Sponors p {
+	font-size: 15px;
+	margin-bottom: 13px; 
 }
 
 
