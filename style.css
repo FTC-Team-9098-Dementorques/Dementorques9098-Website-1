@@ -15,7 +15,7 @@
 }
 
 .jumbotron h1 {
-    font-family: 'shift',sans-serif;
+    font-family: 'audiowide',display;
     color: purple;
     font-size: 48px;
     font-weight: bold;
@@ -31,7 +31,7 @@
 	text-transform: uppercase;
 }
 .learn-more {
-	background-color: black;
+	background-color: white;
 }
 .learn-more h3 {
 	font-family: 'audiowide',display;
