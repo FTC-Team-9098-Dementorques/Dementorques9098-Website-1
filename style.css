@@ -21,8 +21,7 @@
     font-weight: bold;
 }
 .jumbotron a {
-	background-image:http://3.bp.blogspot.com/_D5P-ylPTCUo/TT78oxQHl2I/AAAAAAAAAhQ/j3q3D9fHhdY/s1600/cute%2Brobot.jpg;
-	height: 500px;
+	background-image:
 }
 .nav a {
 	color: purple;
@@ -35,7 +34,7 @@
 	background-color: black;
 }
 .learn-more h3 {
-	font-family: 'shift',sans-serif;
+	font-family: 'audiowide',display;
 	font-size: 18px;
 	font-weight: bold;
 }
