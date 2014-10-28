@@ -52,6 +52,10 @@
 	background-image:http://www.avidtrader.com/wordpress/wp-content/uploads/2011/12/Electricity-Futures.jpg;
 	height: 500px;
 	background-size: cover;
+	border-top: 20px;
+	border-image: 300px;
+	border-bottom: ;
+    
 }
 .learn-more p {
 	font-size: 20px;
