@@ -1,0 +1,21 @@
+.content {
+	background-color: #ffffff;
+	width: 100%;
+
+}
+
+.wrapper {
+	padding: 10px;
+}
+
+@media screen and (min-width: 960px) {
+	.header, .content, .footer {
+		width: 960px;
+	}
+}
+
+@media screen and (min-width: 260px) {
+	.header, .content, .footer {
+		width: 260px;
+	}
+}
