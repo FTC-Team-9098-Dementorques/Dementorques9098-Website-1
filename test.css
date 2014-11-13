@@ -35,6 +35,7 @@ body {
 	width: 100%;
 }
 
+/* Start Media Display */
 @media screen and (min-width: 960px) {
 	.header, .content, .footer {
 		width: 960px;
@@ -46,3 +47,4 @@ body {
 		width: 260px;
 	}
 }
+/* End Media Display */
